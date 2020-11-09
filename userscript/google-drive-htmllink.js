@@ -4,8 +4,8 @@
 // @version      1
 // @author       @y-marui
 // @description  Modify .html file preview in Google Drive
-// @updateURL    https://raw.githubusercontent.com/y-marui/htmllink/release/userscript/google-drive-htmllink.js
-// @downloadURL  https://raw.githubusercontent.com/y-marui/htmllink/release/userscript/google-drive-htmllink.js
+// @updateURL    https://raw.githubusercontent.com/y-marui/htmllink/main/userscript/google-drive-htmllink.js
+// @downloadURL  https://raw.githubusercontent.com/y-marui/htmllink/main/userscript/google-drive-htmllink.js
 // @supportURL   https://github.com/y-marui/htmllink/issues
 // @match        https://drive.google.com/drive/u/*
 // @grant        none
