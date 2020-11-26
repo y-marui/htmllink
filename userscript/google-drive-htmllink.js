@@ -1,7 +1,7 @@
 // ==UserScript==
-// @name         New Userscript
+// @name         Google Drive - htmllink
 // @namespace    https://github.com/y-marui
-// @version      1
+// @version      1.0.1
 // @author       @y-marui
 // @description  Modify .html file preview in Google Drive
 // @updateURL    https://raw.githubusercontent.com/y-marui/htmllink/main/userscript/google-drive-htmllink.js
